@@ -1,5 +1,5 @@
 # Online Cart
-An online shopping website made with the MERN stack. This project covers all major MERN CRUD concepts.
+An online shopping website made with the MERN stack. This project is done to covers all major MERN CRUD concepts.
 
 ## Available Features
 
