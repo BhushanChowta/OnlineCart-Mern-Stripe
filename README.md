@@ -3,6 +3,9 @@ An online shopping website made with the MERN stack. This project is done to cov
 
 ## Available Features
 
+### Stripe Payment Page
+![Stripe Payment Page](./frontend/src/assest/githubReadme/stripe-payment-page.PNG)
+
 ### Home Page
 ![Home Page](./frontend/src/assest/githubReadme/home-page.PNG)
 
