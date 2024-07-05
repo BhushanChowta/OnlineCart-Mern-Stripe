@@ -17,3 +17,4 @@ An online shopping website made with the MERN stack. This project is done to cov
 
 ### SignUp Page
 ![deleteProductPage](./frontend/src/assest/githubReadme/signup-page.PNG)
+
